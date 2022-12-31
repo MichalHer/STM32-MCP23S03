@@ -1,0 +1,20 @@
+# Eclipse files
+.project
+.cproject
+
+# Compiled folders 
+/Release
+/Debug
+/.settings
+
+#MXCubeFiles
+.mxproject
+*.launch
+*.ioc
+*.ld
+
+#HAL Drivers
+/Drivers
+
+#Core filter
+/Core/Startup
